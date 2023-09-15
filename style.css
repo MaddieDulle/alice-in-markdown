@@ -1,0 +1,37 @@
+/* Document Style Starts Here */ 
+
+html {
+    margin: 0;
+    max-width: 960px;
+}
+
+
+
+
+/* Heading Style Starts Here */
+
+h1 {
+    text-align: center
+}
+
+h2 {
+    text-align: center
+}
+
+h3 {
+    text-align: center
+}
+
+/* Image Style Starts Here */
+
+img {
+    max-width: 100px;
+    align-content: center;
+}
+
+/* Body Style Starts Here */
+
+body {
+    background-color: #f1f1f1;
+    font-family: Arial, Helvetica, sans-serif;
+}
