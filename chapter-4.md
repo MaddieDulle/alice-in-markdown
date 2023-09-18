@@ -80,7 +80,7 @@ one! There ought to be a book written about me, that there ought! And
 when I grow up, I’ll write one—but I’m grown up now,” she added in a
 sorrowful tone; “at least there’s no room to grow up any more *here*.”
 
-“But then,” thought Alice, “shall I _never_ get any older than I am
+“But then,” thought Alice, “shall I *never* get any older than I am
 now? That’ll be a comfort, one way—never to be an old woman—but
 then—always to have lessons to learn! Oh, I shouldn’t like *that!*”
 
