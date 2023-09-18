@@ -1,37 +1,62 @@
 /* Document Style Starts Here */ 
 
 html {
-    margin: 0;
+    background-color: rgba(195, 200, 221, 0.253);
     max-width: 960px;
+    font-size: 16px;
+    line-height: 1.25;
 }
-
-
-
 
 /* Heading Style Starts Here */
 
 h1 {
-    text-align: center
+    text-align: center;
+    background-color: darksalmon;
+    font-family: 'Atkinson Hyperlegible', sans-serif;
 }
 
 h2 {
-    text-align: center
+    text-align: center;
+    color: darksalmon;
+    font-family: 'Atkinson Hyperlegible', sans-serif;
 }
 
 h3 {
-    text-align: center
+    text-align: center;
+    color: darksalmon;
+    font-family: 'Atkinson Hyperlegible', sans-serif;
 }
 
 /* Image Style Starts Here */
 
 img {
-    max-width: 100px;
+    max-width: 75%;
     align-content: center;
 }
 
-/* Body Style Starts Here */
+figure {
+    text-align: center;
+    padding: 5%;
+    background-color: darksalmon;   
+}
 
-body {
-    background-color: #f1f1f1;
-    font-family: Arial, Helvetica, sans-serif;
+figcaption {
+    font-family: sans-serif
+    font-size: 0.75em;
+    font-size: 80%;
+    font-style: italic;
+}
+
+/* List Style Starts Here */
+
+ul {
+    list-style-type: none;
+    text-align: center;
+}
+
+/* Paragraph Style Starts Here */
+
+p {
+    text-indent: 25;
+    font-family: 'Atkinson Hyperlegible', sans-serif;
 }
