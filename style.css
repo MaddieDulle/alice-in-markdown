@@ -52,11 +52,44 @@ figcaption {
 ul {
     list-style-type: none;
     text-align: center;
+    font-family: 'Atkinson Hyperlegible', sans-serif;
 }
 
 /* Paragraph Style Starts Here */
 
 p {
-    text-indent: 25;
+    text-indent: 25px;
     font-family: 'Atkinson Hyperlegible', sans-serif;
+}
+
+.stars {
+    text-align: center;
+    font-size: 150%;
+}
+
+.stars-2 {
+    text-align: center;
+    font-size: 150%;
+}
+
+.indent-1 {
+    text-indent: none;
+    margin-top: 0.5px;
+    margin-bottom: 0.5px;
+    font-size: 85%;
+}
+
+.indent-2 {
+    text-indent: 50px;
+    margin-top: 0.5px;
+    margin-bottom: 0.5px;
+    font-size: 85%;
+}
+
+.indent-3 {
+    text-indent: 60px;
+    margin-top: 0.5px;
+    margin-bottom: 0.5px;
+    font-size: 85%;
+
 }

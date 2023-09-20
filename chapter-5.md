@@ -82,6 +82,8 @@ came different!” Alice replied in a very melancholy voice.
 
 Alice folded her hands, and began:—
 
+![an image of one man standing up and another standing on his head.](img/illustration-16.png)
+
 “You are old, Father William,” the young man said,
     “And your hair has become very white;
 And yet you incessantly stand on your head—
@@ -91,6 +93,8 @@ And yet you incessantly stand on your head—
     “I feared it might injure the brain;
 But, now that I’m perfectly sure I have none,
     Why, I do it again and again.”
+
+![an image of a man tripping into a house with another man.](img/illustration-17.png)    
 
 “You are old,” said the youth, “as I mentioned before,
     And have grown most uncommonly fat;
@@ -102,6 +106,8 @@ Yet you turned a back-somersault in at the door—
 By the use of this ointment—one shilling the box—
     Allow me to sell you a couple?”
 
+![an image of a man serving another man.](img/illustration-18.png)
+
 “You are old,” said the youth, “and your jaws are too weak
     For anything tougher than suet;
 Yet you finished the goose, with the bones and the beak—
@@ -111,6 +117,8 @@ Yet you finished the goose, with the bones and the beak—
     And argued each case with my wife;
 And the muscular strength, which it gave to my jaw,
     Has lasted the rest of my life.”
+
+![an image of two men talking.](img/illustration-19.png)
 
 “You are old,” said the youth, “one would hardly suppose
     That your eye was as steady as ever;
@@ -192,7 +200,7 @@ lefthand bit.
 
     *      *      *      *      *      *
 
-*      *      *      *      *      *      *
+*      *      *      *      *      *      *    
 
 
 “Come, my head’s free at last!” said Alice in a tone of delight, which
@@ -267,10 +275,10 @@ they’re a kind of serpent, that’s all I can say.”
 
 This was such a new idea to Alice, that she was quite silent for a
 minute or two, which gave the Pigeon the opportunity of adding, “You’re
-looking for eggs, I know _that_ well enough; and what does it matter to
+looking for eggs, I know *that* well enough; and what does it matter to
 me whether you’re a little girl or a serpent?”
 
-“It matters a good deal to _me_,” said Alice hastily; “but I’m not
+“It matters a good deal to *me*,” said Alice hastily; “but I’m not
 looking for eggs, as it happens; and if I was, I shouldn’t want
 *yours*: I don’t like them raw.”
 
@@ -295,3 +303,11 @@ upon an open place, with a little house in it about four feet high.
 *this* size: why, I should frighten them out of their wits!” So she
 began nibbling at the righthand bit again, and did not venture to go
 near the house till she had brought herself down to nine inches high.
+
+### List of Illustrations
+
+- [Alice looks at the Caterpillar.](img/illustration-15.png)
+- [Father Williams stands on his head.](img/illustration-16.png)
+- [Father Williams trips into the house.](img/illustration-17.png)
+- [Father Williams is served by the young man.](img/illustration-18.png)
+- [Father Williams talks to the young man.](img/illustration-19.png)
